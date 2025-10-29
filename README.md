@@ -79,11 +79,11 @@ The analysis highlights key areas for improvement in user experience and retenti
 
 ## Future Directions
 
-1. Advanced Funnel Analysis: Further break down conversion rates by product categories or brands to understand specific product performance.
-2. User Segmentation Analysis: Segment users based on spending patterns, frequency of visits, or other demographic factors to tailor marketing efforts.
-3. A/B Testing for Checkout Process: Conduct A/B tests on different checkout experiences to identify the most user-friendly design.
+1. **Advanced Funnel Analysis:** Further break down conversion rates by product categories or brands to understand specific product performance.
+2. **User Segmentation Analysis:** Segment users based on spending patterns, frequency of visits, or other demographic factors to tailor marketing efforts.
+3. **A/B Testing for Checkout Process:** Conduct A/B tests on different checkout experiences to identify the most user-friendly design.
 
-
+---
 
 This project provides valuable insights into user engagement and retention patterns, and the recommendations presented are aimed at helping the company drive better customer retention and improve the overall shopping experience.
 
